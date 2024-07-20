@@ -8,7 +8,6 @@
 
 |   主&emsp;页   | <https://github.com/glownight>                                      |
 | :------------: | :------------------------------------------------------- |
-| **博&emsp;客** | **<https://github.com/glownight> **                            |
 
 **Languages:**
 
