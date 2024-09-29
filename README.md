@@ -1,7 +1,7 @@
 ### Hi there, I'm glownight.
 
 <pre>
-天道酬勤。
+主要技能：前端开发。
 </pre>
 
 
