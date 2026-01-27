@@ -5,9 +5,6 @@
 </pre>
 
 
-|   主&emsp;页   | <https://glownight.cn>                                      |
-| :------------: | :------------------------------------------------------- |
-
 **Languages:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)
