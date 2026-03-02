@@ -1,7 +1,7 @@
 ### Hi there, I'm glownight.
 
 <pre>
-主要技能：前端开发。
+主要技能：前端开发、AI开发。
 </pre>
 
 
